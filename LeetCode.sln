@@ -70,7 +70,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{73
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01897. Redistribute Characters to Make All Strings Equal", "solution\01897. Redistribute Characters to Make All Strings Equal\01897. Redistribute Characters to Make All Strings Equal.csproj", "{959D2799-8202-468A-8DF3-DB16E269949F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01897. Redistribute Characters to Make All Strings Equal", "solution\01897. Redistribute Characters to Make All Strings Equal\01897. Redistribute Characters to Make All Strings Equal.csproj", "{959D2799-8202-468A-8DF3-DB16E269949F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02125. Number of Laser Beams in a Bank", "solution\02125. Number of Laser Beams in a Bank\02125. Number of Laser Beams in a Bank.csproj", "{A7C6770E-8D44-4A38-AEB9-EC33392F3682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02870. Minimum Number of Operations to Make Array Empty", "solution\02870. Minimum Number of Operations to Make Array Empty\02870. Minimum Number of Operations to Make Array Empty.csproj", "{22813A80-6BB5-4806-931D-187B8767A21E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -198,6 +202,14 @@ Global
 		{959D2799-8202-468A-8DF3-DB16E269949F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{959D2799-8202-468A-8DF3-DB16E269949F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959D2799-8202-468A-8DF3-DB16E269949F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C6770E-8D44-4A38-AEB9-EC33392F3682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C6770E-8D44-4A38-AEB9-EC33392F3682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C6770E-8D44-4A38-AEB9-EC33392F3682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C6770E-8D44-4A38-AEB9-EC33392F3682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22813A80-6BB5-4806-931D-187B8767A21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22813A80-6BB5-4806-931D-187B8767A21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22813A80-6BB5-4806-931D-187B8767A21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22813A80-6BB5-4806-931D-187B8767A21E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,6 +245,8 @@ Global
 		{E48F2570-9D1F-4B08-A361-68CFDBF705FC} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 		{76C167D4-0CFA-4FB1-89EF-2630E6DFD528} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 		{959D2799-8202-468A-8DF3-DB16E269949F} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
+		{A7C6770E-8D44-4A38-AEB9-EC33392F3682} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
+		{22813A80-6BB5-4806-931D-187B8767A21E} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C2E5406-7B0D-4424-A228-3D60809985DE}
