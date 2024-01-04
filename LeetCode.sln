@@ -74,7 +74,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01897. Redistribute Charact
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02125. Number of Laser Beams in a Bank", "solution\02125. Number of Laser Beams in a Bank\02125. Number of Laser Beams in a Bank.csproj", "{A7C6770E-8D44-4A38-AEB9-EC33392F3682}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02870. Minimum Number of Operations to Make Array Empty", "solution\02870. Minimum Number of Operations to Make Array Empty\02870. Minimum Number of Operations to Make Array Empty.csproj", "{22813A80-6BB5-4806-931D-187B8767A21E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02870. Minimum Number of Operations to Make Array Empty", "solution\02870. Minimum Number of Operations to Make Array Empty\02870. Minimum Number of Operations to Make Array Empty.csproj", "{22813A80-6BB5-4806-931D-187B8767A21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00237. Delete Node in a Linked List", "solution\00237. Delete Node in a Linked List\00237. Delete Node in a Linked List.csproj", "{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Core", "extension\LeetCode.Core\LeetCode.Core.csproj", "{3BBF0B05-DD85-4148-9662-B9D3AA136EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00019. Remove Nth Node From End of List", "solution\00019. Remove Nth Node From End of List\00019. Remove Nth Node From End of List.csproj", "{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -210,6 +216,18 @@ Global
 		{22813A80-6BB5-4806-931D-187B8767A21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22813A80-6BB5-4806-931D-187B8767A21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22813A80-6BB5-4806-931D-187B8767A21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBF0B05-DD85-4148-9662-B9D3AA136EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBF0B05-DD85-4148-9662-B9D3AA136EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBF0B05-DD85-4148-9662-B9D3AA136EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBF0B05-DD85-4148-9662-B9D3AA136EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,6 +265,9 @@ Global
 		{959D2799-8202-468A-8DF3-DB16E269949F} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 		{A7C6770E-8D44-4A38-AEB9-EC33392F3682} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 		{22813A80-6BB5-4806-931D-187B8767A21E} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
+		{8C3E80EF-CBC7-4F08-8AB8-DDBCD6B461B3} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
+		{3BBF0B05-DD85-4148-9662-B9D3AA136EE1} = {E3B43F8A-2FCA-4680-AB64-7F4C23486132}
+		{4EA595B8-C2D5-4262-A1CB-83F6DD463DCF} = {07AC83E8-2CC1-47BC-AD00-38157FB8CCF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C2E5406-7B0D-4424-A228-3D60809985DE}
